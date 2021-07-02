@@ -1,4 +1,4 @@
-print("=" * 6 + " Desafio 005 " + "=" * 6)
+print("=" * 6 + " DESAFIO 005 " + "=" * 6)
 
 number = int(input("Digite um número: "))
 
