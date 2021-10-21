@@ -10,7 +10,7 @@ while(True):
 	number1 = float(input("Primeira nota do aluno: "))
 	number2 = float(input("Segunda nota do aluno: "))
 
-	if number1 <= 20 and number2 <= 20:
+	if 0 <= number1 <= 20 and 0 <= number2 <= 20:
 		break
 	
 	count += 1
