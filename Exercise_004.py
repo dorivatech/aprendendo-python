@@ -1,3 +1,6 @@
+""" DESAFIO 004 »» Características de um valor aleatório """
+""" Esse algoritmo recebe um valor qualquer digitado pelo usuário e depois verifica um monte de características deste """
+
 print("====== DESAFIO 004 ======")
 
 something = input("Escreva alguma coisa ")
