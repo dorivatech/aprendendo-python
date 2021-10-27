@@ -1,3 +1,6 @@
+""" DESAFIO 006 »» Operações aritméticas (* && sqrt) """
+""" Esse algoritmo recebe um número e apresenta o seu dobro, triplo e raíz quadrada """
+
 print("{:=^25}".format(" DESAFIO 006 "))
 
 number = int(input("Digite um número: "))
