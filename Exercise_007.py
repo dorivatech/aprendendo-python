@@ -7,8 +7,8 @@ while(True):
 	if count >= 1:
 		print("Por favor use notas no intervalo 0 - 20")
 
-	number1 = float(input("Primeira nota do aluno: "))
-	number2 = float(input("Segunda nota do aluno: "))
+	number1 = float(input("Primeira nota do aluno: ") or 0)
+	number2 = float(input("Segunda nota do aluno: ") or 0)
 
 	if 0 <= number1 <= 20 and 0 <= number2 <= 20:
 		break
