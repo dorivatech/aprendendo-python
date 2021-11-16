@@ -7,4 +7,4 @@ day = input("Dia = ")
 mounth = input("Mês = ")
 year = input("Ano = ")
 
-print("Você nasceu no dia {} de {} de {}. Correcto?".format(day, mounth, year))
+print("Você nasceu no dia \33[0;34m{}\33[m de \33[36m{}\33[m de \33[35m{}\33[m. Correcto?".format(day, mounth, year))
