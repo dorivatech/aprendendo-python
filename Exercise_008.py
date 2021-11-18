@@ -1,3 +1,6 @@
+""" DESAFIO 008 »» Conversor de unidades (cumprimento) """
+""" Este algoritmo recebe um valor em metros e converte para outras unidades de cumprimento, como: km, hm, dam e outras """
+
 print("{:=^25}".format(" DESAFIO 008 "))
 print("{:=^25}".format(" Conversor de unidades "))
 
