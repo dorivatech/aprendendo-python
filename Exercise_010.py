@@ -1,3 +1,6 @@
+""" DESAFIO 010 »» Conversor de moedas """
+""" Este algoritmo recebe um montante em KZs e apresenta o valor correspondente nas moedas: dollar, euro e real """
+
 print("{:=^25}".format(" DESAFIO 010 "))
 print("{:=^25}".format(" Conversor de moedas "), end="\n\n")
 
