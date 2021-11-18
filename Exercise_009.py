@@ -1,3 +1,6 @@
+""" DESAFIO 009 »» Tabuada """
+""" Este algoritmo recebe um número qualquer e apresenta a sua tabuada (de 01 até o número 12) """
+
 print("{:=^25}".format(" DESAFIO 009 "))
 print("{:=^25}".format(" Tabuada "), end="\n\n")
 
