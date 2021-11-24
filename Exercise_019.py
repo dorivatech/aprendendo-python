@@ -8,7 +8,7 @@ names = []
 repeat = int(input("Digite quantos nomes você deseja receber: "))
 
 while(count <= repeat):
-	name = input("Digite um nome: ")
+	name = input("Digite o {}º nome: ".format(count if (count > 9) else "0" + str(count)))
 	names.append(name)
 
 	count += 1
