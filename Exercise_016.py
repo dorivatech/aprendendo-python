@@ -1,3 +1,6 @@
+""" DESAFIO 016 »» Porção inteira """
+""" Este algoritmo recebe um número e depois apresenta a sua parte inteira """
+
 from math import trunc
 
 print("{:=^25}".format(" DESAFIO 016 "))
