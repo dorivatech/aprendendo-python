@@ -1,3 +1,6 @@
+""" DESAFIO 012 »» Cálculo de desconto """
+""" Este algoritmo recebe o preço de um produto e um valor em percentagem (desconto) e depois calcula o novo preço do produto segundo esse valor percentual """
+
 print("{:=^25}".format(" DESAFIO 012 "))
 print("{:=^25}".format(" Cálculo de desconto "), end="\n\n")
 
